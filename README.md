@@ -1,5 +1,5 @@
 # DstDataCollect
-这是一个数据实时采集的Java Spring应用程序，采集的数据来自： http://wdc.kugi.kyoto-u.ac.jp/dst_realtime/presentmonth/index.html
+这是一个数据实时采集与可视化的Java Spring应用程序，采集的数据来自： http://wdc.kugi.kyoto-u.ac.jp/dst_realtime/presentmonth/index.html
 ## 功能描述
 该应用实现的功能很简单：定时从目标网站爬取数据，并将数据处理后保存到excel表格中，同时将数据绘制成图像保存和实时展示。
 ![]("数据/2020_05_Dst_RT.jpeg")
